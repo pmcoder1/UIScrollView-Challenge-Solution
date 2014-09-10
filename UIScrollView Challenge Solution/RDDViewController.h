@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RDDViewController : UIViewController
+@interface RDDViewController : UIViewController <UIScrollViewDelegate>
+
+@property (strong, nonatomic) IBOutlet UIScrollView *scrollView;
+@property (strong, nonatomic) UIImageView *globeImageView;
 
 @end

@@ -21,6 +21,7 @@
 		6E78A00919C0F74800E32C1E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E789FEB19C0F74800E32C1E /* UIKit.framework */; };
 		6E78A01119C0F74800E32C1E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6E78A00F19C0F74800E32C1E /* InfoPlist.strings */; };
 		6E78A01319C0F74800E32C1E /* UIScrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E78A01219C0F74800E32C1E /* UIScrollView_Challenge_SolutionTests.m */; };
+		6E78A01D19C0FA6600E32C1E /* world-map.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6E78A01C19C0FA6600E32C1E /* world-map.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		6E78A00E19C0F74800E32C1E /* UIScrollView Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrollView Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		6E78A01019C0F74800E32C1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6E78A01219C0F74800E32C1E /* UIScrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		6E78A01C19C0FA6600E32C1E /* world-map.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "world-map.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		6E789FEE19C0F74800E32C1E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6E78A01C19C0FA6600E32C1E /* world-map.jpeg */,
 				6E789FEF19C0F74800E32C1E /* UIScrollView Challenge Solution-Info.plist */,
 				6E789FF019C0F74800E32C1E /* InfoPlist.strings */,
 				6E789FF319C0F74800E32C1E /* main.m */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E78A00019C0F74800E32C1E /* Images.xcassets in Resources */,
+				6E78A01D19C0FA6600E32C1E /* world-map.jpeg in Resources */,
 				6E789FF219C0F74800E32C1E /* InfoPlist.strings in Resources */,
 				6E789FFB19C0F74800E32C1E /* Main.storyboard in Resources */,
 			);
